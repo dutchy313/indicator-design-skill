@@ -1,5 +1,5 @@
 ---
-name: indicator-design-skill
+name: indicator-design
 description: Design, select, define and quality-assure monitoring, evaluation and learning (MEL) indicators for development, humanitarian and public-sector programmes. Use this skill whenever the user is building or reviewing a results framework, logframe, theory of change, M&E plan, performance measurement framework, results chain, indicator matrix, indicator reference sheet / PIRS, KPI set, baseline or target values, disaggregation plan, or data collection plan — and also when they simply say things like "how do we measure this outcome", "what indicators should we use for this project", "our indicators aren't working", "help me write a logframe", "we need SMART indicators", or "review our M&E framework", even if the word "indicator" is never used. Applies to donor-funded work (World Bank, EU/DG INTPA, UN agencies, FCDO, USAID, GIZ, AfDB, IsDB, philanthropies), government sector plans, and NGO proposals alike.
 ---
 
