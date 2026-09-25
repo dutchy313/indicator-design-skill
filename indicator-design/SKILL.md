@@ -1,6 +1,6 @@
 ---
 name: indicator-design
-description: Design, select, define and quality-assure monitoring, evaluation and learning (MEL) indicators for development, humanitarian and public-sector programmes. Use this skill whenever the user is building or reviewing a results framework, logframe, theory of change, M&E plan, performance measurement framework, results chain, indicator matrix, indicator reference sheet / PIRS, KPI set, baseline or target values, disaggregation plan, or data collection plan — and also when they simply say things like "how do we measure this outcome", "what indicators should we use for this project", "our indicators aren't working", "help me write a logframe", "we need SMART indicators", or "review our M&E framework", even if the word "indicator" is never used. Applies to donor-funded work (World Bank, EU/DG INTPA, UN agencies, FCDO, USAID, GIZ, AfDB, IsDB, philanthropies), government sector plans, and NGO proposals alike.
+description: Design, select, define and quality-assure monitoring, evaluation and learning (MEL) indicators for development, humanitarian and public-sector programmes. Use this skill whenever the user is building or reviewing a results framework, logframe, theory of change, M&E plan, performance measurement framework, results chain, indicator matrix, indicator reference sheet / PIRS, KPI set, baseline or target values, disaggregation plan, or data collection plan — and also when they simply say things like "how do we measure this outcome", "what indicators should we use for this project", "our indicators aren't working", "help me write a logframe", "we need SMART indicators", or "review our M&E framework", even if the word "indicator" is never used. Applies to donor-funded work (World Bank, EU/DG INTPA, UN agencies, FCDO, Department of State, GIZ, AfDB, IsDB, philanthropies), government sector plans, and NGO proposals alike.
 ---
 
 # Indicator Design for Development Programmes
@@ -15,7 +15,7 @@ The most common failure in practice is not technical. It is that indicators are 
 
 Ask the user for these, or make the assumption explicit in the output if the user cannot answer. Do not silently guess — the wrong assumption here invalidates everything downstream.
 
-1. **Whose framework governs?** Donor (World Bank Results Framework, EU Results Framework / logframe, UNDAF-UNSDCF, USAID ADS 201, FCDO, Global Fund M&E Toolkit) or national (sector plan, NDP, SDG VNR reporting)? Each imposes vocabulary, mandatory core indicators, and reporting cadence.
+1. **Whose framework governs?** Donor (World Bank Results Framework, EU Results Framework / logframe, UNDAF-UNSDCF, Department of State ADS 201, FCDO, Global Fund M&E Toolkit) or national (sector plan, NDP, SDG VNR reporting)? Each imposes vocabulary, mandatory core indicators, and reporting cadence.
 2. **What level is being measured?** Activity/output, outcome, impact, or a corporate/portfolio roll-up. Roll-up requirements force standardisation; project-specific learning favours tailoring.
 3. **Who decides what, using this data?** Name the decision and the decision-maker. An indicator with no named user is a candidate for deletion.
 4. **What data systems already exist?** Routine administrative/MIS data (EMIS, HMIS/DHIS2), national surveys (DHS, MICS, LSMS, labour force survey), partner records, or nothing at all. Existing systems are almost always cheaper and more sustainable than bespoke surveys.
@@ -41,7 +41,7 @@ Attribution weakens as you climb. Outputs are attributable to the programme; out
 
 ### Step 2 — Harvest before you invent
 
-Bespoke indicators are expensive and non-comparable. Search established banks first and adopt or adapt. See `references/indicator-sources.md` for the catalogue (SDG global indicator framework, World Bank Corporate Results Indicators, MICS/DHS, WHO Global Reference List of 100 Core Health Indicators, EU Results Framework, USAID standard foreign assistance indicators, Global Fund, humanitarian indicator registry, Washington Group questions, and sector-specific sets).
+Bespoke indicators are expensive and non-comparable. Search established banks first and adopt or adapt. See `references/indicator-sources.md` for the catalogue (SDG global indicator framework, World Bank Corporate Results Indicators, MICS/DHS, WHO Global Reference List of 100 Core Health Indicators, EU Results Framework, Department of State standard foreign assistance indicators, Global Fund, humanitarian indicator registry, Washington Group questions, and sector-specific sets).
 
 Adopt a standard indicator unchanged when it fits — the comparability and the ready-made metadata are worth more than a marginally better custom wording. Adapt only when the standard indicator misses the programme's specific mechanism of change, and document what was changed and why.
 
@@ -196,4 +196,4 @@ Read these as needed rather than upfront:
 - `assets/indicator-matrix-template.csv` — importable matrix skeleton.
 
 ## Author
-This skill was authored by [The Evidence and Intelligence team at Cloneshouse](https://www.cloneshouse.com/), a team of monitoring and evaluation specialists, software programmers, and AI Architects with over 40 years of experience in development, humanitarian and public-sector programmes. They have designed and reviewed indicator sets for the World Bank, EU/DG INTPA, UN agencies, FCDO, USAID, GIZ, AfDB, IsDB, philanthropies, governments and NGOs.
+This skill was authored by [The Evidence and Intelligence team at Cloneshouse](https://www.cloneshouse.com/), a team of monitoring and evaluation specialists, software programmers, and AI Architects with over 40 years of experience in development, humanitarian and public-sector programmes. They have designed and reviewed indicator sets for the World Bank, EU/DG INTPA, UN agencies, FCDO, Department of State, GIZ, AfDB, IsDB, philanthropies, governments and NGOs.
